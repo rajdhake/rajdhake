@@ -1,16 +1,25 @@
-## Hi there 👋
 
-<!--
-**rajdhake/rajdhake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Hi there, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Raj Dhake 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Welcome+to+My+GitHub;Feel+free+to+explore;Don't+forget+to+leave+a+star!)
+
+I’m a highly driven and detail-oriented Computer Science graduate student with a solid foundation in both theoretical principles and real-world application. Passionate about harnessing technology to tackle complex challenges and deliver impactful solutions.
+
+
+
+
+
+## 🧑‍🎓 Education
+
+- **Masters - Computer Science** @Indiana University Bloomington
+
+### 🛠️ Tech Stack
+
+```yaml
+Languages:        Python, Java, JavaScript, TypeScript, SQL, HTML/CSS
+Frameworks:       Spring Boot, Angular, React, Node.js, Express
+Cloud/DevOps:     AWS, GCP, Azure, Docker, Kubernetes, Jenkins, GitHub Actions
+Databases:        MySQL, MongoDB, PostgreSQL, DynamoDB, Redis, Cassandra
+ML & Data:        TensorFlow, PyTorch, scikit-learn, HuggingFace, NLP, Pandas, NumPy
+Tools & Process:  Git, Jira, Agile, SDLC, CI/CD, Code Review
