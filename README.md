@@ -23,11 +23,17 @@ Cloud/DevOps:     AWS, GCP, Azure, Docker, Kubernetes, Jenkins, GitHub Actions
 Databases:        MySQL, MongoDB, PostgreSQL, DynamoDB, Redis, Cassandra
 ML & Data:        TensorFlow, PyTorch, scikit-learn, HuggingFace, NLP, Pandas, NumPy
 Tools & Process:  Git, Jira, Agile, SDLC, CI/CD, Code Review
+```
 
-## 📫 How to Reach Me:
-- ✉️ [raj12345dhake@gmail.com](mailto:raj12345dhake@gmail.com) 
+### 📫 How to Reach Me:
+<p>
+  <a href="https://www.linkedin.com/in/raj-dhake/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:raj12345dhake@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white" />
+  </a>
+</p>
+  
 
-- <a href="https://www.linkedin.com/in/raj-dhake/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a>
 
-
-<del> 
